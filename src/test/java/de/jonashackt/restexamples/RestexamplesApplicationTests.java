@@ -21,7 +21,8 @@ import de.jonashackt.restexamples.controller.Controller;
 @RunWith(SpringRunner.class)
 @SpringBootTest(
 		classes = RestexamplesApplication.class,
-		webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT
+		webEnvironment = SpringBootTest.WebEnvironment.DEFINED_PORT,
+		properties = "server.port = 8080"
 )
 public class RestexamplesApplicationTests {
     
