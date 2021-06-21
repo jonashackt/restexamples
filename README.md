@@ -1,6 +1,6 @@
 # restexamples
 
-[![Build Status](https://travis-ci.org/jonashackt/restexamples.svg?branch=master)](https://travis-ci.org/jonashackt/restexamples)
+[![Build Status](https://github.com/jonashackt/restexamples/workflows/build/badge.svg)](https://github.com/jonashackt/restexamples/actions)
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/jonashackt/restexamples/blob/master/LICENSE)
 [![renovateenabled](https://img.shields.io/badge/renovate-enabled-yellow)](https://renovatebot.com)
 
